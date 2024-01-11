@@ -2,11 +2,11 @@
 1, 概要  
 本アプリケーションはユーザー情報の一覧と新規登録ができるシステムです。  
   
-ユーザー情報一覧画面では、登録した情報を確認できます。  
+・ユーザー情報一覧画面では、登録した情報を確認できます。  
 http://localhost:8080/user/list  
 ![sample_01](https://github.com/ujii-masaki/Java_School_Intermediate/assets/156159427/ccf1a2df-ec32-40d3-9b93-8abfcf90b83a)  
 
-「新規登録はこちら」をクリックすると、新規ユーザー情報登録ができます。  
+・「新規登録はこちら」をクリックすると、新規ユーザー情報登録ができます。  
 http://localhost:8080/user/add
 ![sample_02](https://github.com/ujii-masaki/Java_School_Intermediate/assets/156159427/89b84881-4669-4752-b544-5c06bde021af)  
 
