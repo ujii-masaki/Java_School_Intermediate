@@ -15,14 +15,18 @@ http://localhost:8080/user/add
 ユーザー新規登録画面：ユーザー名、パスワード、メールアドレスを入力して登録します。パスワードは暗号化されて保存されます。  
   
 2, 使用技術  
-- java 21
+- java ver21
 - springframework.boot version 3.2.1
-- Mybatis
+- Gradle
+- Spring Web
 - Thymeleaf
+- Lomback
+- PostgreSQL Driver	
 - MySQL
-- PostgreSQL14
+- Mybatis
 - Docker/Docker-compose
 - A5:SQL Mk-2  SQL Client/ER Diagram tool
+- VScode
 
   
 Javaの中級研修で学んだことを、実務で使用するような開発環境で実際に実装～動作確認を行いました。
