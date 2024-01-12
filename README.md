@@ -69,6 +69,11 @@ graph LR
     list    
   end  
 ```
-
+- UserRequest:ユーザー新規登録画面の入力処理  
+- UserController:各画面表示及び入出力処理など、リクエストに対応する処理を呼び出す  
+- UserServise:UserControllerより呼び出された指示を処理する  
+- UserRepository:DBにアクセスする処理  
+- UserMapper:DBにアクセスする処理、実際にアクセスするコードが書かれている  
+  
   
 Javaの中級研修で学んだことを、実務で使用するような開発環境で実際に実装～動作確認を行いました。
